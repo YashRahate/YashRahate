@@ -20,14 +20,14 @@ I'm a passionate **Information Technology student** from Mumbai, currently pursu
 A full-stack web app where users can upload, like, and explore memes. Integrated Cloudinary for image hosting and implemented user authentication.
 
 * **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js), Cloudinary
-* [Live Site](https://meme-sharing-platform.onrender.com/) | [GitHub Repo](https://github.com/YashRahate/MemeSharingPlatform)
+*  [GitHub Repo](https://github.com/YashRahate/MemeSharingPlatform)
 
 ### 👩‍💻 [Attendance Using Face Recognition](#)
 
 An ML-based system that automates student attendance from group photos using face recognition.
 
 * **Tech Stack:** Python, OpenCV, DeepFace, Google Vision API
-* [Live Site](https://attendence-using-face-recognition-yvqv.onrender.com/) | [GitHub Repo](https://github.com/YashRahate/Attendance-Using-Face-Recognition)
+* [GitHub Repo](https://github.com/YashRahate/Attendance-Using-Face-Recognition)
 
 ### 🛋️ [Senior Citizen Assist](#)
 
@@ -41,7 +41,7 @@ A Flutter app offering medication reminders, health record storage, SOS alerts, 
 Regression model to estimate house prices based on various features.
 
 * **Tech Stack:** Python, Scikit-learn, Pandas, Jupyter
-* [Live Site](https://house-price-prediction-s2cl.onrender.com/) | [GitHub Repo](https://github.com/YashRahate/HousePricePrediction)
+* [GitHub Repo](https://github.com/YashRahate/HousePricePrediction)
 
 ### 📊 [Data Science and Tools](#)
 
@@ -55,7 +55,7 @@ A collection of data science experiments and practicals covering clustering, cla
 Internship work involving integration of client and admin-side sites for business functionality and responsiveness.
 
 * **Tech Stack:** HTML, CSS, JavaScript, Node.js
-* [Live Site (Client)](https://frontend-pgtg.onrender.com/home) | [Live Site (Admin)](https://admin-6p7v.onrender.com/dashboard) | [GitHub Repo](https://github.com/YashRahate/PalcoaIntegration)
+* [GitHub Repo](https://github.com/YashRahate/PalcoaIntegration)
 
 ### 🛒 [Grocery Management System (Cloud-based)](#) 
 
